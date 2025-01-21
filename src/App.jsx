@@ -59,11 +59,11 @@ function App() {
         className="d-flex justify-content-center align-items-center bg-dark container-fluid"
         style={{ height: "100vh" }}
       >
-        <div className="w-75 p-4 bg-light border shadow">
+        <div className="container p-1 p-md-5 bg-light border shadow">
           <h1 className="text-center my-2">Simple Interest Calculator</h1>
           <div
             className="w-75 d-flex justify-content-center p-5 border rounded mx-auto"
-            style={{ backgroundColor: "#48c270" }}
+            style={{ backgroundColor: "#8948d9" }}
           >
             <h2>&#8377; {result}</h2>
           </div>
